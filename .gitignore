@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+.idea/
+datasets/
+dataset/
+full_eig/
+train_eig/
+eig/
+eig.zip
+wandb/
+graphsage/
